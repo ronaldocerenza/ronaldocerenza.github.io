@@ -6,12 +6,11 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Ronaldo Cerenza</title>
 </head>
 <body>
   <a href="#sobre-mim">Sou aluno da Trybe em desenvolvimento, buscando um conhecimento em Desenvolvimento Web!!</a>
   <a href="#pagina">Página que eu gosto</a>
-  <h1 class="meuNome">Tryber</h1>
+  <h1 class="meuNome">Ronaldo Cerenza</h1>
   <img src="fotoronaldo.jpg" alt="Tryber sorrindo com camiseta do Brasil" id="foto">
   <p class="descricao">Estou na corrida para se tornar um<strong><em>Desenvolvedor de Web</em></strong>, e espero conseguir essa nova conquista em minha vida....</p>
   <p class="resido"><strong>Ponta Pora - MS</strong></p>
