@@ -12,8 +12,8 @@
   <a href="#sobre-mim">Sou aluno da Trybe em desenvolvimento, buscando um conhecimento em Desenvolvimento Web!!</a>
   <a href="#pagina">Página que eu gosto</a>
   <h1 class="meuNome">Tryber</h1>
-  <img src="fotoronaldo" alt="Tryber sorrindo com camiseta do Brasil" id="foto">
-  <p class="descricao">Lorem ipsum <strong><em>dolor sit amet</em></strong>, consectetur adipiscing elit. Suspendisse convallis id ligula tempor consequat. Nulla urna risus, luctus quis egestas ut, elementum ac lacus. Nunc scelerisque purus at lacus mollis, ut vestibulum purus fermentum. In ac efficitur augue. Fusce elementum rhoncus tellus, interdum rhoncus tellus aliquam vel.</p>
+  <img src="fotoronaldo.jpg" alt="Tryber sorrindo com camiseta do Brasil" id="foto">
+  <p class="descricao">Estou na corrida para se tornar um<strong><em>Desenvolvedor de Web</em></strong>, e espero conseguir essa nova conquista em minha vida....</p>
   <p class="resido"><strong>Ponta Pora - MS</strong></p>
   <h2>Lista de habilidades</h2>
   <ul>
