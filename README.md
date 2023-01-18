@@ -1,5 +1,7 @@
 ### Hey 👋, I'm Ronaldo
 
+<img src="fotoronaldo.jpg" width="250px" alt="Tryber sorrindo com camiseta do Brasil" id="foto">
+
 [![Github](https://img.shields.io/github/followers/ronaldocerenza?label=Follow&style=social)](https://github.com/ronaldocerenza)
 
 Sou economista de formacao e estou na corrida para se tornar um <strong><em>Desenvolvedor de Web</em></strong>, e espero conseguir essa nova conquista em minha vida.Super feliz com essa nova carreira em minha vida
